@@ -18,7 +18,7 @@ const Contact = () => {
           <p className='text-gray-500'>Tel: (+61) 172-1239 <br />Email: contact@shopsphere.com</p>
           <p className='font-semibold text-xl text-gray-600'>Careers at Forecer</p>
           <p className='text-gray-500'>Learn more about our teams and job openings.</p>
-          <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore Jobs</button>
+          <button className='border border-blue-900 px-8 py-4 text-sm hover:bg-blue-900 hover:text-white transition-all duration-500'>Explore Jobs</button>
         </div>
       </div>
 
