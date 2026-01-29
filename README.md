@@ -1,10 +1,10 @@
-🛒 ShopSphere – MERN Stack E-Commerce Application
+🛒 **ShopSphere** – MERN Stack E-Commerce Application
 
-ShopSphere is a full-stack e-commerce web application built using the **MERN stack**. The platform allows users to browse clothing products across categories, add items to their cart, and complete purchases using **Cash on Delivery (COD)** or **Stripe online payments**. It also includes a powerful **Admin dashboard** for managing products and orders.
+**ShopSphere** is a full-stack e-commerce web application built using the **MERN stack**. The platform allows users to browse clothing products across categories, add items to their cart, and complete purchases using **Cash on Delivery (COD)** or **Stripe online payments**. It also includes a powerful **Admin dashboard** for managing products and orders.
 
-✨ Features
+✨ **Features**
 
-👤 User Features
+👤 **User Features**
 
 ● User authentication and authorization (JWT-based)
 
@@ -24,7 +24,7 @@ ShopSphere is a full-stack e-commerce web application built using the **MERN sta
 
 ---
 
-🛠️ Admin Features
+🛠️ **Admin Features**
 
 ● Secure admin authentication
 
@@ -38,7 +38,7 @@ ShopSphere is a full-stack e-commerce web application built using the **MERN sta
 
 ---
 
-💳 Payment Integration
+💳 **Payment Integration**
 
 ● Integrated **Stripe Payment Gateway** for secure online transactions
 
@@ -46,9 +46,9 @@ ShopSphere is a full-stack e-commerce web application built using the **MERN sta
 
 ---
 
-🧰 Tech Stack
+🧰 **Tech Stack**
 
-● Frontend
+**● Frontend**
 
   ‣ React.js
   
@@ -58,25 +58,25 @@ ShopSphere is a full-stack e-commerce web application built using the **MERN sta
   
   ‣ Tailwind CSS
   
-● Backend
+**● Backend**
   
   ‣ Node.js
   
   ‣ Express.js
 
-● Database
+**● Database**
   
   ‣ MongoDB
   
   ‣ Mongoose
 
-● Authentication & Payments
+**● Authentication & Payments**
   
   ‣ JSON Web Tokens (JWT)
   
   ‣ Stripe Payment Gateway
 
-● Tools & Utilities
+**● Tools & Utilities**
   
   ‣ Git & GitHub
   
@@ -86,7 +86,7 @@ ShopSphere is a full-stack e-commerce web application built using the **MERN sta
 
 ---
 
-🏗️ Project Architecture
+🏗️ **Project Architecture**
 
 ● Follows **MVC (Model–View–Controller)** architecture
 
